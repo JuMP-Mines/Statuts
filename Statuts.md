@@ -1,8 +1,8 @@
-## JUMP Mines ParisTech - Statuts
+## JUMP Mines Paris - Statuts
 
 ### ARTICLE 1 : PREAMBULE
 
-Il est fondé, entre les adhérents aux présents statuts, une association, régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre JuMP MINES ParisTech, ci-après dénommée l’Association, et régie par les présents statuts.  
+Il est fondé, entre les adhérents aux présents statuts, une association, régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre JuMP MINES Paris, ci-après dénommée l’Association, et régie par les présents statuts.  
 
 Sa durée est illimitée.  
 
@@ -10,7 +10,7 @@ Elle est inscrite au Tribunal d’Instance de Paris.
 
 ### ARTICLE 2 : OBJET ET MOYENS
 
-L’association a pour objet de compléter et prolonger la formation théorique de ses membres par la réalisation d’études à caractère pédagogique, permettant la mise en application des principaux enseignements dispensés à MINES ParisTech – PSL tels qu’ils sont définis par la Direction de l’Ecole, notamment par la liste des options dispensées.   
+L’association a pour objet de compléter et prolonger la formation théorique de ses membres par la réalisation d’études à caractère pédagogique, permettant la mise en application des principaux enseignements dispensés à MINES Paris – PSL tels qu’ils sont définis par la Direction de l’Ecole, notamment par la liste des options dispensées.   
 
 L’association réalise son objet conformément à l’éthique du mouvement des Junior-Entreprises. A ce titre, elle adhère à la Confédération Nationale des Junior-Entreprises.
  
@@ -30,7 +30,7 @@ L'Association se compose de quatre types de membres :
 
 -	Les membres du Comité d’Orientation Stratégique (COS) dont les conditions de nomination et les missions sont précisées dans le Règlement intérieur. 
 
-Les membres actifs, intervenants et honoraires sont nécessairement étudiants de Mines ParisTech - PSL. 
+Les membres actifs, intervenants et honoraires sont nécessairement étudiants de MINES Paris - PSL. 
 
 Les membres votants sont les membres actifs.  
 
@@ -38,7 +38,7 @@ La qualité de membre s’acquiert dans les circonstances exposées par le Règl
 
 ### ARTICLE 5 : PERTE DE LA QUALITE DE MEMBRE
 
-La qualité de membre se perd automatiquement par la démission ou par le décès. Elle se perd également par la radiation prononcée par le Conseil d’Administration dans les conditions fixées par le Règlement Intérieur ou, pour les membres actifs, intervenants et honoraires, par la perte de la qualité d’étudiant à Mines ParisTech – PSL de manière automatique et non notifiée dans ce dernier cas. 
+La qualité de membre se perd automatiquement par la démission ou par le décès. Elle se perd également par la radiation prononcée par le Conseil d’Administration dans les conditions fixées par le Règlement Intérieur ou, pour les membres actifs, intervenants et honoraires, par la perte de la qualité d’étudiant à MINES Paris – PSL de manière automatique et non notifiée dans ce dernier cas. 
 
 ### ARTICLE 6 : RESSOURCES
 
@@ -118,7 +118,7 @@ Il est notamment chargé de fixer la politique générale de l’Association et 
 
 Le Conseil d’Administration se réunit au moins une fois par mois et autant que besoin sur convocation du Secrétaire Général ou sur la demande du quart de ses membres.  
 
-Le Conseil d’Administration doit réunir un quorum de deux tiers de ses membres présents et représentés.  
+Le Conseil d’Administration doit réunir un quorum d'un tiers de ses membres présents et représentés.  
 
 Les décisions sont prises à la majorité simple des membres présents et représentés ; en cas de partage, la voix du Président est prépondérante.  
 
